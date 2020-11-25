@@ -1,0 +1,38 @@
+/*css navbar*/
+header .navbar{
+    background-color: black;
+    padding: 1rem 2rem;
+    margin: 15px;
+    font-family: 'Bebas Neue', cursive;
+    font-size: 1.5rem;
+    color: white !important;
+    margin-bottom: 25px;
+}
+
+header .nav-link{
+    color: white !important;
+}
+
+header .nav-item{
+    padding-left: 2rem;
+    padding-right: 2rem;
+}
+
+header .nav-item :hover{
+    color: orange !important;
+}
+
+footer .nav-item{
+    padding-left: 1rem;
+    padding-right: 1rem;
+    margin-bottom: 1rem;
+}
+
+footer .nav-item :hover{
+    transform: scale(1.2);
+    overflow: hidden;
+}
+
+.icono{
+    width: 6vh;
+}
