@@ -93,7 +93,7 @@ h5 {
   font-size: 20px;
   position: fixed;
   bottom: 8px;
-  right: 8px;
+  left: 8px;
   cursor: pointer; }
 
 #button-up:hover {
