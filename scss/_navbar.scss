@@ -21,18 +21,3 @@ header .nav-item{
 header .nav-item :hover{
     color: orange !important;
 }
-
-footer .nav-item{
-    padding-left: 1rem;
-    padding-right: 1rem;
-    margin-bottom: 1rem;
-}
-
-footer .nav-item :hover{
-    transform: scale(1.2);
-    overflow: hidden;
-}
-
-.icono{
-    width: 6vh;
-}
